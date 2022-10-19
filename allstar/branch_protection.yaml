@@ -4,6 +4,7 @@ optConfig:
 action: fix
 enforceDefault: true
 requireApproval: true
+requireUpToDateBranch: true
 approvalCount: 1
 dismissStale: true
 blockForce: true
