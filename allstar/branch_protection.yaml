@@ -1,0 +1,9 @@
+optConfig:
+  optOutStrategy: true
+  disableRepoOverride: true
+action: fix
+enforceDefault: true
+requireApproval: true
+approvalCount: 1
+dismissStale: true
+blockForce: true
